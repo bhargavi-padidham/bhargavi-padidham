@@ -25,11 +25,7 @@
 
 ### OVERVIEW
 
-Computer Science and Engineering graduate specializing in Artificial Intelligence and Machine Learning from Kalasalingam Academy of Research & Education . Focused on engineering robust NLP pipelines, implementing edge-based computer vision models, and exploring quantum machine learning architectures .
-
-- **Current Focus:** Deep Learning, Large Language Models (LLMs), RAG architectures, and Edge AI deployments .
-- **Research & Development:** Architecting document refinery pipelines and simulated maritime routing systems .
-- **Professional Development:** Certified by the ACM Winter School in Edge AI Computing, focusing on embedded AI and IoT model deployment .
+Computer Science and Engineering graduate specializing in Artificial Intelligence and Machine Learning. Focsing on engineering mult-agent systems, implementing edge-based computer vision models and other modles that run on low end hardware.Open to new opportunities.
 
 ---
 
@@ -37,10 +33,10 @@ Computer Science and Engineering graduate specializing in Artificial Intelligenc
 
 | Category | Technologies |
 | :--- | :--- |
-| **Languages & Databases** | `Python (Advanced)` `Java` `SQL (MySQL, SQLite)`  |
+| **Languages & Databases** | `Python`  `SQL (MySQL, SQLite)`  |
 | **AI & Machine Learning** | `TensorFlow` `Keras` `NLP (LLMs, RAG)` `Computer Vision` `TF Lite` `PennyLane`  |
-| **Data Science** | `Pandas` `NumPy` `Matplotlib` `Seaborn` `Power BI` `Statistical Modeling`  |
-| **MLOps & Infrastructure** | `Git/GitHub` `Docker` `Algorithm Evaluation` `Technical Documentation`  |
+| **Data Science** | `Pandas` `NumPy` `Matplotlib` `Seaborn`  `Statistical Modeling`  |
+| **MLOps & Infrastructure** | `Git/GitHub` `Docker` |
 
 ---
 
